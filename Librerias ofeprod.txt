@@ -1,0 +1,12 @@
+F:\DESARROLLO_MIG\Atencion\Power_Builder\OfeProd\gc_at_mnt_ofer.pbl;
+F:\DESARROLLO_MIG\Atencion\Power_Builder\OfeProd\gc_at_mnt_ofer_dw01.pbl;
+F:\DESARROLLO_MIG\Atencion\Power_Builder\OfeProd\gc_at_mnt_ofer_wn01.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\GesReq\gc_cm_req_clase.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\Comunes\gc_cm_comun_clase.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\Comunes\gc_cm_comun_dw01.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\Comunes\gc_cm_comun_fn01.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\Comunes\gc_cm_comun_str01.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\Comunes\gc_cm_comun_uo01.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\Comunes\gc_cm_comun_wn01.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\Comunes\_winsock.pbl;
+F:\DESARROLLO_MIG\Gescab\PBLib_Comun\Comunes\segcabg.pbl;
